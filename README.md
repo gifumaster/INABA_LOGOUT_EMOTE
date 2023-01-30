@@ -21,7 +21,7 @@ https://github.com/gifumaster/INABA_LOGOUT_EMOTE/raw/main/inaba_fadeout.unitypac
  - Prefab variantはmaterialをdessolve対応のモードに変えたものがセットされています。
    - Dissolveがfurに対応していないため、尻尾はもふもふ感が失われております。
  - そのままアップロードしていただければ対応完了です。
- - 追加の衣装（メッシュ）を追加した場合にはアニメーションに追加する必要があり、Unityの知識を必要とします。
+ - 標準以外の衣装や小物（メッシュ）を追加した場合には別途アニメーションに追加する必要があり、Unityの知識を必要とします。
 
 【Prefab Variantを使わず標準対応する場合】
  - FadeoutModuleをアバターの直下に入れてください。
