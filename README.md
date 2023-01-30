@@ -5,11 +5,13 @@ INABAちゃん用　標準衣装対応ログアウトモーション
 liltoonのDissolve機能を利用したログアウトエフェクトの設定を補助するパッケージです。  
 アバター本体は付属していません。 本パッケージについて一切の質問は受け付けません。
 
-## 内容
- - INABAちゃんに設定済みのprefab variant
- - Modular Avatar設定済みのprefab
+## ダウンロード
+https://github.com/gifumaster/INABA_LOGOUT_EMOTE/raw/main/inaba_fadeout.unitypackage
 
-が同梱されています。
+## 内容物
+ - パラメータ設定済みのprefab variant
+ - Modular Avatar設定済みのprefab
+ - アニメーション、メニュー
 
 【重要】
  - 設定前にアバター本体、liltoon、Modular Avatarをimportしてください。
@@ -36,5 +38,3 @@ liltoonのDissolve機能を利用したログアウトエフェクトの設定�
    [![](https://img.youtube.com/vi/4_fZdwAmXGs/0.jpg)](https://www.youtube.com/watch?v=4_fZdwAmXGs)
    
    
-   ダウンロード
-   https://github.com/gifumaster/INABA_LOGOUT_EMOTE/raw/main/inaba_fadeout.unitypackage
