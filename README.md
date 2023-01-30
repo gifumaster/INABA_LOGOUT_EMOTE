@@ -3,7 +3,7 @@
 INABAちゃん用　VRChat用標準衣装対応ログアウトモーション
 
 liltoonのDissolve機能を利用したログアウトエフェクトの設定を補助するパッケージです。  
-アバター本体は付属していません。 本パッケージについて一切の質問は受け付けません。
+アバター本体は付属していません。 本パッケージについて一切の質問は受け付けません。ある程度Unityがわかっている必要があります。
 
 ## ダウンロード
 https://github.com/gifumaster/INABA_LOGOUT_EMOTE/raw/main/inaba_fadeout.unitypackage
