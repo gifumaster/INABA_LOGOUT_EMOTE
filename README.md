@@ -32,6 +32,6 @@ liltoonのDissolve機能を利用したログアウトエフェクトの設定�
    - Shapeをアバターのメッシュにしておくと良い感じです。
    ![image](https://user-images.githubusercontent.com/34181574/215459778-1c87495a-374f-4522-bfb5-b6f3c1917f0d.png)
    
-   別売りのパーティクルを仕込んだ例
-   [!['サンプル動画']('https://i9.ytimg.com/vi/4_fZdwAmXGs/mq2.jpg?sqp=CNzI3p4G-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGBMgMSh_MA8=&rs=AOn4CLBwiUUdQ16Kf9q7CvB6n4Bxdf8rFA')]('https://www.youtube.com/watch?v=4_fZdwAmXGs')
+   別売りのパーティクルを仕込んだ例  
+   [![サンプル動画](https://i9.ytimg.com/vi/4_fZdwAmXGs/mq2.jpg?sqp=CNzI3p4G-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGBMgMSh_MA8=&rs=AOn4CLBwiUUdQ16Kf9q7CvB6n4Bxdf8rFA)](https://www.youtube.com/watch?v=4_fZdwAmXGs)
    
