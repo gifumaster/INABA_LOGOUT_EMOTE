@@ -10,7 +10,7 @@ https://github.com/gifumaster/INABA_LOGOUT_EMOTE/raw/main/inaba_fadeout.unitypac
 
 ## 内容物
  - パラメータ設定済みのprefab variant
- - Modular Avatar設定済みのprefab
+ - Modular Avatar用のコンポーネント設定済みのprefab
  - アニメーション、メニュー
 
 【重要】
