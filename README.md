@@ -35,3 +35,6 @@ liltoonのDissolve機能を利用したログアウトエフェクトの設定�
    別売りのパーティクルを仕込んだ例  
    [![](https://img.youtube.com/vi/4_fZdwAmXGs/0.jpg)](https://www.youtube.com/watch?v=4_fZdwAmXGs)
    
+   
+   ダウンロード
+   https://github.com/gifumaster/INABA_LOGOUT_EMOTE/raw/main/inaba_fadeout.unitypackage
