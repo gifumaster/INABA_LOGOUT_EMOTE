@@ -34,7 +34,5 @@ https://github.com/gifumaster/INABA_LOGOUT_EMOTE/raw/main/inaba_fadeout.unitypac
    - Shapeをアバターのメッシュにしておくと良い感じです。
    ![image](https://user-images.githubusercontent.com/34181574/215459778-1c87495a-374f-4522-bfb5-b6f3c1917f0d.png)
    
-   別売りのパーティクルを仕込んだり、パーティクルの場所を増やしたサンプル
-   [![](https://img.youtube.com/vi/4_fZdwAmXGs/0.jpg)](https://www.youtube.com/watch?v=4_fZdwAmXGs)
    
    
